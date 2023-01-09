@@ -10,3 +10,6 @@ This is a replication of the 1982 Pengo arcade game created as the final project
 
 ## Screenshots
 
+![Menu](/assets/screenshot1.png "Menu")
+![Game](/assets/screenshot2.png "Game")
+
